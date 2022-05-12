@@ -1,0 +1,48 @@
+
+{
+  "project_info": {
+    "project_number": "124558055421",
+    "project_id": "deeksha-2d22c",
+    "storage_bucket": "deeksha-2d22c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124558055421:android:00ae19535e724e10a6eb94",
+        "android_client_info": {
+          "package_name": "com.example.ds_learner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124558055421-fegvdiuqcgeqanbs5dl4b87bp2ii5n9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ds_learner",
+            "certificate_hash": "14c7de0211b8cec5cf56332faa607c5cafb22418"
+          }
+        },
+        {
+          "client_id": "124558055421-vrmg5n9h1ghjam750bueq4o1jmm05b0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3JZOOoh0tbge92459gYT6gOiIrXHjz04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124558055421-vrmg5n9h1ghjam750bueq4o1jmm05b0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
